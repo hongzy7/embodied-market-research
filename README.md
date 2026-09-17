@@ -2,7 +2,7 @@
 
 面向公开访问的具身智能行业研究站点，包含公司目录、技术路线、每日动态、资本市场与七轴人形手臂竞品研究。
 
-- 线上网站：<https://hongzy7.github.io/embodied-market-research/>
+- 线上网站：<https://hongzy7.github.io/embodied-market-research/?v=20260917>
 - 部署方式：GitHub Pages + GitHub Actions
 - 技术栈：React + Vite
 
