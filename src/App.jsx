@@ -339,12 +339,12 @@ export default function App({ view="home", reportDate=null }) {
         <div className="hero-orbit" aria-hidden="true"><i/><i/><i/><span>VLA</span><span>WM</span><span>RL</span></div>
       </section>}
 
-      {view==="home"&&<section className="hub-nav"><div className="section-head"><div><p className="eyebrow">RESEARCH WORKSPACE</p><h2>研究工作台</h2></div><p>每个栏目拥有独立页面，便于分享、收藏和持续更新。</p></div><div className="hub-grid">
+      {view==="home"&&<section className="hub-nav"><div className="section-head"><div><p className="eyebrow">RESEARCH WORKSPACE</p><h2>研究工作台</h2></div></div><div className="hub-grid">
         <a href={siteHref("/landscape/")}><span>01</span><h3>战略坐标</h3><p>查看已评分公司位置与待评分清单。</p><ArrowUpRight size={18}/></a>
         <a href={siteHref("/directory/")}><span>02</span><h3>公司情报库</h3><p>搜索和筛选公开公司资料。</p><ArrowUpRight size={18}/></a>
-        <a href={siteHref("/daily/")}><span>03</span><h3>每日动态</h3><p>{dailyReports.length}期日报卡片、摘要、关键词与完整报告。</p><ArrowUpRight size={18}/></a>
-        <a href={siteHref("/capital/")}><span>04</span><h3>资本动态</h3><p>跟踪重点机器人公司的股票市值与资本事件。</p><ArrowUpRight size={18}/></a>
-        <a href={siteHref("/arms/")}><span>05</span><h3>7轴竞品雷达</h3><p>按产品型号对比参数、应用、成交与落地场景。</p><ArrowUpRight size={18}/></a>
+        <a href={siteHref("/arms/")}><span>03</span><h3>7轴竞品雷达</h3><p>按产品型号对比参数、应用、成交与落地场景。</p><ArrowUpRight size={18}/></a>
+        <a href={siteHref("/daily/")}><span>04</span><h3>每日动态</h3><p>{dailyReports.length}期日报卡片、摘要、关键词与完整报告。</p><ArrowUpRight size={18}/></a>
+        <a href={siteHref("/capital/")}><span>05</span><h3>资本动态</h3><p>跟踪重点机器人公司的股票市值与资本事件。</p><ArrowUpRight size={18}/></a>
       </div></section>}
 
       {view==="landscape" && <section className="landscape standalone-section" id="landscape">
