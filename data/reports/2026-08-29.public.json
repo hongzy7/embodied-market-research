@@ -1,0 +1,46 @@
+{
+  "reportDate": "2026-08-29",
+  "title": "具身智能每日简报",
+  "windowStart": "2026-08-28T18:00:00+08:00",
+  "windowEnd": "2026-08-29T18:00:00+08:00",
+  "generatedAt": "2026-08-29T18:03:00+08:00",
+  "keywords": [
+    "硬件标准",
+    "MCP",
+    "开放接口",
+    "设备控制",
+    "LeRobot"
+  ],
+  "scopeNote": "当日没有足够重要的一手新增，飞书原日报仅补充近3日内一条基础设施动态；公开版不扩写其他旧闻。",
+  "takeaways": [
+    {
+      "company": "Anthropic",
+      "title": "预览Model Hardware Standard",
+      "summary": "MHS研究预览尝试用统一驱动与标准化状态、操作描述，让AI智能体发现并安全控制可编程硬件；官方称其兼容MCP。",
+      "source": {
+        "label": "Anthropic",
+        "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+        "publishedAt": "2026-08-27"
+      }
+    }
+  ],
+  "companyUpdates": [
+    {
+      "company": "Anthropic",
+      "headline": "预览Model Hardware Standard",
+      "summary": "MHS研究预览尝试用统一驱动与标准化状态、操作描述，让AI智能体发现并安全控制可编程硬件；官方称其兼容MCP。",
+      "source": {
+        "label": "Anthropic",
+        "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+        "publishedAt": "2026-08-27"
+      }
+    }
+  ],
+  "industryUpdates": [],
+  "comparison": {
+    "columns": [],
+    "rows": []
+  },
+  "capitalMarket": [],
+  "disclaimer": "由飞书L2日报整理的公开事实版；已移除内部判断、客户信息与行动建议，仅供业务研究。"
+}

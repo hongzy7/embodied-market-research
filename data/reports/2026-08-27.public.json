@@ -1,0 +1,86 @@
+{
+  "reportDate": "2026-08-27",
+  "title": "具身智能每日简报",
+  "windowStart": "2026-08-26T18:00:00+08:00",
+  "windowEnd": "2026-08-27T18:00:00+08:00",
+  "generatedAt": "2026-08-27T18:06:00+08:00",
+  "keywords": [
+    "世界模型",
+    "具身大脑",
+    "融资",
+    "数据闭环",
+    "众包数据"
+  ],
+  "scopeNote": "历史日报原口径为优先过去24小时，并补充一条近3日信息；此页保留原发布日期并去除内部判断。",
+  "takeaways": [
+    {
+      "company": "穹彻智能",
+      "title": "预览Noe-0具身世界动作模型",
+      "summary": "Noe-0把环境变化建模、隐式世界想象、动作规划与动作输出置于同一学习过程，并继续利用非本体数据。",
+      "source": {
+        "label": "Noematrix Lab",
+        "url": "https://lab.noematrix.ai/blog/1-noe-0-research-preview/",
+        "publishedAt": "2026-08-26"
+      }
+    },
+    {
+      "company": "灵初智能",
+      "title": "完成新一轮超1亿美元融资",
+      "summary": "公开报道显示产业资本参与本轮融资，资金用于具身世界模型、真人操作数据采集、物流与先进制造。",
+      "source": {
+        "label": "经济观察网",
+        "url": "https://www.eeo.com.cn/2026/0827/1012558.shtml",
+        "publishedAt": "2026-08-27"
+      }
+    },
+    {
+      "company": "Figure AI",
+      "title": "Figure Index扩展众包数据基础设施",
+      "summary": "Figure披露Index上线4个月获得26.4万次下载、4.4万周活用户和超过1600万段视频。",
+      "source": {
+        "label": "Figure AI（飞书原日报未显示链接）",
+        "url": "",
+        "publishedAt": "2026-08-25"
+      }
+    }
+  ],
+  "companyUpdates": [
+    {
+      "company": "穹彻智能",
+      "headline": "预览Noe-0具身世界动作模型",
+      "summary": "Noe-0把环境变化建模、隐式世界想象、动作规划与动作输出置于同一学习过程，并继续利用非本体数据。",
+      "source": {
+        "label": "Noematrix Lab",
+        "url": "https://lab.noematrix.ai/blog/1-noe-0-research-preview/",
+        "publishedAt": "2026-08-26"
+      }
+    },
+    {
+      "company": "灵初智能",
+      "headline": "完成新一轮超1亿美元融资",
+      "summary": "公开报道显示产业资本参与本轮融资，资金用于具身世界模型、真人操作数据采集、物流与先进制造。",
+      "source": {
+        "label": "经济观察网",
+        "url": "https://www.eeo.com.cn/2026/0827/1012558.shtml",
+        "publishedAt": "2026-08-27"
+      }
+    },
+    {
+      "company": "Figure AI",
+      "headline": "Figure Index扩展众包数据基础设施",
+      "summary": "Figure披露Index上线4个月获得26.4万次下载、4.4万周活用户和超过1600万段视频。",
+      "source": {
+        "label": "Figure AI（飞书原日报未显示链接）",
+        "url": "",
+        "publishedAt": "2026-08-25"
+      }
+    }
+  ],
+  "industryUpdates": [],
+  "comparison": {
+    "columns": [],
+    "rows": []
+  },
+  "capitalMarket": [],
+  "disclaimer": "由飞书L2日报整理的公开事实版；已移除内部判断、客户信息与行动建议，仅供业务研究。"
+}

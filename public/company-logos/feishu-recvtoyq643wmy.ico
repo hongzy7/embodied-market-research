@@ -1,0 +1,9 @@
+<!DOCTYPE html><html><head><meta charset=utf-8><meta name=renderer content=webkit><meta name=viewport content="width=1280,user-scalable=yes"><meta name=description content=中移（杭州）信息技术有限公司是中国移动通信有限公司的全资子公司，于2014年3月在杭州成立，是中国移动贯彻“网络强国”战略和“互联网+”行动计划、促进企业转型发展的重要布局。><meta name=keywords content=中国移动智慧家庭运营中心、中国移动、智慧家庭运营中心、杭州研发中心、中移（杭州）信息技术有限公司、互联网、解决方案、移动互联网、生态环境、融合通信、消费互联网、产业互联网、大数据应用、数据价值、能力平台、数字家庭、物联网、网络相连、全面感知、智能化、智慧家庭、智慧城市、智能家居><link rel=icon href=/logoIcon.png><title>中移（杭州）信息技术有限公司</title><script src=/turn/lib/jquery.js></script><script src=/turn/lib/modernizr.2.5.3.min.js></script><script src=/turn/lib/hash.js></script><link as=style href=/css/app.482d1448.css rel=preload><link as=style href=/css/chunk-vendors.a8f4b0ab.css rel=preload><link as=script href=/js/app.89b9c5a5.js rel=preload><link as=script href=/js/chunk-vendors.11485fc8.js rel=preload><link as=script href=/js/index.e1fb30b1.js rel=preload><link href=/css/chunk-vendors.a8f4b0ab.css rel=stylesheet><link href=/css/app.482d1448.css rel=stylesheet></head><body><noscript><strong>We're sorry but hello doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=app></div><script>var magazineCss = '/turn/css/magazine.css'
+      var turnJs = '/turn/js/turn.js'
+      var turnHtmlJs = '/turn/js/turn.html4.min.js'
+      var zoomJs = '/turn/js/zoom.min.js'
+      var magazineJs = '/turn/js/magazine.js'
+      var pagePath = '/turn/pages/productmanual/'
+      var pagePath2 = '/turn/pages/productmanual2/'
+      window.requestAnimationFrame = window.requestAnimationFrame|| function (fn) {return setTimeout(fn,1000/60)}
+      window.cancelAnimationFrame = window.cancelAnimationFrame || clearTimeout;</script><script src=/js/chunk-vendors.11485fc8.js></script><script src=/js/app.89b9c5a5.js></script><script src=/js/index.e1fb30b1.js></script></body></html>

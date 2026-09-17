@@ -1,0 +1,90 @@
+{
+  "reportDate": "2026-09-10",
+  "title": "具身智能每日简报",
+  "windowStart": "2026-09-09T18:00:00+08:00",
+  "windowEnd": "2026-09-10T18:00:00+08:00",
+  "generatedAt": "2026-09-10T19:29:00+08:00",
+  "keywords": ["Physical AI", "单视频学习", "工业部署", "双臂移动机器人", "机器人出海", "7轴机械臂"],
+  "scopeNote": "严格检索北京时间2026-09-09 18:00（含）至2026-09-10 18:00（不含），并于2026-09-11补录。共筛出6条可核验更新；仅标注日期而无时分的来源保留该限制，不以窗口外旧闻填充。",
+  "takeaways": [
+    {
+      "company": "Skild AI / NVIDIA",
+      "title": "S1以单段视频教会机器人长流程新任务",
+      "summary": "NVIDIA披露，Skild AI的S1可把单段视频作为提示，在不更新模型权重、不做任务专项后训练的情况下执行最长约10分钟的新任务；其测试中多步骤任务单步成功率约66%，对比系统约9%。",
+      "source": {"label": "NVIDIA Blog", "url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/", "publishedAt": "2026-09-10（页面仅标注日期）"}
+    },
+    {
+      "company": "无界动力",
+      "title": "K15启动法国电池超级工厂部署",
+      "summary": "首批全尺寸K15已抵达法国，计划在远景动力法国电池超级工厂执行精准上下料和料箱搬运；公司为工业级全域CE认证投入8个月和上百万元，海外部署开始从样机展示转向真实产线。",
+      "source": {"label": "新华网 / 科技日报", "url": "https://www.news.cn/tech/20260910/77d7d11342224878a32fcfbac00b30ef/c.html", "publishedAt": "2026-09-10 09:09（北京时间）"}
+    },
+    {
+      "company": "AIRoA / NEDO",
+      "title": "日本7家公司完成双臂移动机器人原型",
+      "summary": "日本国产通用机器人竞赛将在Physical AI Summit首次集中展示7家公司历时约6个月开发的双臂移动机器人原型；通过评测的团队将进入改良、量产体系建设和机器人基础模型数据采集阶段。",
+      "source": {"label": "NEDO", "url": "https://www.nedo.go.jp/events/CD_100235.html", "publishedAt": "2026-09-10（页面仅标注日期）"}
+    },
+    {
+      "company": "云迹科技",
+      "title": "与Vortech签署东南亚服务机器人合作备忘录",
+      "summary": "云迹科技与印尼Vortech签署战略合作备忘录，机器人将进入印尼酒店和公寓，Vortech承诺建立独立部署维护团队；公司披露2026年上半年海外收入同比增长638.1%，落地11个代表性项目。",
+      "source": {"label": "云迹科技", "url": "https://www.yunjichina.com.cn/news/392.html", "publishedAt": "2026-09-10（页面仅标注日期）"}
+    },
+    {
+      "company": "CoreWeave",
+      "title": "推出Physical AI现场工程服务",
+      "summary": "CoreWeave推出Physical AI Field Engineering，把汽车、航空和机械工程专家嵌入客户团队，利用客户自有测试台、仿真、传感器和遥测数据完成建模、验证与部署；该方法已用于100多个工程项目。",
+      "source": {"label": "CoreWeave", "url": "https://coreweave.com/news/coreweave-launches-physical-ai-field-engineering-to-turn-proprietary-data-into-production-ai", "publishedAt": "2026-09-10（页面仅标注日期）"}
+    },
+    {
+      "company": "小马智行 / Verne",
+      "title": "在萨格勒布启动载客全无人Robotaxi测试",
+      "summary": "双方在萨格勒布公共道路启动22公里载客全无人测试，路线连接商务区与机场；既有车队已运行超过20万公里并完成数千次乘客行程，下一步将扩大覆盖范围。",
+      "source": {"label": "Pony.ai IR", "url": "https://ir.pony.ai/news-releases/news-release-details/pony-ai-inc-and-verne-kick-fully-driverless-robotaxi-test-rides", "publishedAt": "2026-09-10 17:00（北京时间）"}
+    }
+  ],
+  "companyUpdates": [
+    {
+      "company": "Skild AI",
+      "headline": "从专项编程转向视频提示式任务迁移",
+      "summary": "S1把任务示范压缩成视频提示，并已在Foxconn双臂机械臂上演示Blackwell系统精密装配；这使末端执行精度、接触控制和扰动恢复成为本体侧关键指标。",
+      "source": {"label": "NVIDIA Blog", "url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/", "publishedAt": "2026-09-10（页面仅标注日期）"}
+    },
+    {
+      "company": "无界动力",
+      "headline": "K15进入欧洲电池工厂真实工况",
+      "summary": "项目覆盖上下料和长程料箱搬运，但跨车间人机混行规则、当地法规与售后仍需继续验证。",
+      "source": {"label": "新华网 / 科技日报", "url": "https://www.news.cn/tech/20260910/77d7d11342224878a32fcfbac00b30ef/c.html", "publishedAt": "2026-09-10 09:09（北京时间）"}
+    },
+    {
+      "company": "云迹科技",
+      "headline": "以区域渠道与本地服务降低出海成本",
+      "summary": "合作方承诺建设部署维护团队，显示海外机器人销售正在从单点项目转向标准产品、区域渠道和本地服务组合。",
+      "source": {"label": "云迹科技", "url": "https://www.yunjichina.com.cn/news/392.html", "publishedAt": "2026-09-10（页面仅标注日期）"}
+    }
+  ],
+  "industryUpdates": [
+    {
+      "title": "机器人进入以真实订单和长期运行验证价值的阶段",
+      "summary": "新华网指出，产业评估正从演示转向出货量、产线工时和复购率，资本更集中于具身大模型、数据采集和产品交付。",
+      "source": {"label": "新华网", "url": "https://www.news.cn/finance/20260910/1a145978d67f44168bd96696437348e6/c.html", "publishedAt": "2026-09-10 09:50（北京时间）"}
+    },
+    {
+      "title": "单视频学习降低长尾任务部署成本",
+      "summary": "Skild S1表明，新任务适配可能从重新采数和训练转向少样本现场示范，但66%的单步成功率仍意味着长流程可靠性需要本体、控制与恢复机制共同提升。",
+      "source": {"label": "NVIDIA Blog", "url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/", "publishedAt": "2026-09-10（页面仅标注日期）"}
+    },
+    {
+      "title": "出海门槛从CE认证扩大到本地运维与法规适配",
+      "summary": "无界动力和云迹科技的案例共同显示，认证、备件、现场服务、数据合规和当地渠道正在成为硬件性能之外的交付门槛。",
+      "source": {"label": "新华网 / 科技日报", "url": "https://www.news.cn/tech/20260910/77d7d11342224878a32fcfbac00b30ef/c.html", "publishedAt": "2026-09-10 09:09（北京时间）"}
+    }
+  ],
+  "comparison": {"columns": [], "rows": [], "note": "本窗口没有可靠、同口径的新机完整参数，故不生成参数对比表。"},
+  "capitalMarket": [
+    {"company": "宇树科技", "ticker": "688836.SH", "signal": "9月10日收498.55元，首次跌破500元关口，较上市首日盘中高点回撤约54.7%；高波动与高估值仍是短期主要风险。", "source": {"label": "星岛环球网", "url": "https://m.stnn.cc/detail/6aa285d9b4b06b3f171bea5c.html", "publishedAt": "2026-09-10 18:33（报道时间；收盘数据）"}},
+    {"company": "华沿机器人", "ticker": "01021.HK", "signal": "9月10日收9.465港元，跌2.77%；同期优必选、越疆和珞石分别下跌约5.79%、5.17%和6.10%，港股机器人板块当日承压。", "source": {"label": "经济通", "url": "https://www.etnet.com.hk/www/eng/stocks/sector_business.php?business=6", "publishedAt": "2026-09-10 16:40（香港时间）"}}
+  ],
+  "disclaimer": "公开资料摘要，仅供行业研究，不构成投资建议。公司披露、测试表现、收入和运营数据均按来源口径整理，未经独立审计；资本行情采用北京时间2026-09-10 18:00前可获得的最近收盘。"
+}

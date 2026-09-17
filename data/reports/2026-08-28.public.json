@@ -1,0 +1,86 @@
+{
+  "reportDate": "2026-08-28",
+  "title": "具身智能每日简报",
+  "windowStart": "2026-08-27T18:00:00+08:00",
+  "windowEnd": "2026-08-28T18:00:00+08:00",
+  "generatedAt": "2026-08-28T18:13:00+08:00",
+  "keywords": [
+    "激光雷达",
+    "触觉传感",
+    "关节模组",
+    "Physical AI",
+    "灵巧手数据"
+  ],
+  "scopeNote": "历史日报采用截至当日18:00的过去24小时口径；公开版按飞书原文摘要并移除内部建议。",
+  "takeaways": [
+    {
+      "company": "速腾聚创",
+      "title": "机器人感知、触觉与关节模组进入商业交付期",
+      "summary": "公司披露机器人激光雷达销量增长，空间相机、触觉传感器与关节模组进入交付或量产规划。",
+      "source": {
+        "label": "PR Newswire",
+        "url": "https://www.prnewswire.com/apac/news-releases/robosense-reports-2026-interim-results-with-robotics-lidar-sales-volume-up-510-4-year-over-year-302861468.html",
+        "publishedAt": "2026-08-27"
+      }
+    },
+    {
+      "company": "瑞萨电子",
+      "title": "在北京设立Physical AI与机器人实验室",
+      "summary": "实验室面向机器人整机演示、系统级验证和联合开发，覆盖控制、功率、感知、边缘AI与软件。",
+      "source": {
+        "label": "Renesas Newsroom",
+        "url": "https://www.renesas.com/en/about/newsroom/renesas-establishes-physical-ai-robotics-lab-beijing-accelerate-next-generation-robotics-innovation",
+        "publishedAt": "2026-08-27"
+      }
+    },
+    {
+      "company": "MANUS / NVIDIA",
+      "title": "打通带触觉反馈的灵巧手数据闭环",
+      "summary": "Isaac Teleop与Isaac Lab支持MANUS逐指触觉反馈，并可记录抓力、滑移与接触时序示教数据。",
+      "source": {
+        "label": "飞书原日报未显示链接",
+        "url": "",
+        "publishedAt": "2026-08-27"
+      }
+    }
+  ],
+  "companyUpdates": [
+    {
+      "company": "速腾聚创",
+      "headline": "机器人感知、触觉与关节模组进入商业交付期",
+      "summary": "公司披露机器人激光雷达销量增长，空间相机、触觉传感器与关节模组进入交付或量产规划。",
+      "source": {
+        "label": "PR Newswire",
+        "url": "https://www.prnewswire.com/apac/news-releases/robosense-reports-2026-interim-results-with-robotics-lidar-sales-volume-up-510-4-year-over-year-302861468.html",
+        "publishedAt": "2026-08-27"
+      }
+    },
+    {
+      "company": "瑞萨电子",
+      "headline": "在北京设立Physical AI与机器人实验室",
+      "summary": "实验室面向机器人整机演示、系统级验证和联合开发，覆盖控制、功率、感知、边缘AI与软件。",
+      "source": {
+        "label": "Renesas Newsroom",
+        "url": "https://www.renesas.com/en/about/newsroom/renesas-establishes-physical-ai-robotics-lab-beijing-accelerate-next-generation-robotics-innovation",
+        "publishedAt": "2026-08-27"
+      }
+    },
+    {
+      "company": "MANUS / NVIDIA",
+      "headline": "打通带触觉反馈的灵巧手数据闭环",
+      "summary": "Isaac Teleop与Isaac Lab支持MANUS逐指触觉反馈，并可记录抓力、滑移与接触时序示教数据。",
+      "source": {
+        "label": "飞书原日报未显示链接",
+        "url": "",
+        "publishedAt": "2026-08-27"
+      }
+    }
+  ],
+  "industryUpdates": [],
+  "comparison": {
+    "columns": [],
+    "rows": []
+  },
+  "capitalMarket": [],
+  "disclaimer": "由飞书L2日报整理的公开事实版；已移除内部判断、客户信息与行动建议，仅供业务研究。"
+}

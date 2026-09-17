@@ -1,0 +1,96 @@
+{
+  "reportDate": "2026-09-08",
+  "title": "具身智能每日简报",
+  "windowStart": "2026-09-07T18:00:00+08:00",
+  "windowEnd": "2026-09-08T18:00:00+08:00",
+  "generatedAt": "2026-09-08T19:29:00+08:00",
+  "keywords": ["人形机器人量产", "Physical AI", "VLA数据", "商业交付", "融资", "7轴机械臂"],
+  "scopeNote": "严格检索北京时间2026-09-07 18:00（含）至2026-09-08 18:00（不含）。本窗口筛出7条可核验更新；来源仅标注日期而未标注时分的条目明确保留该限制，不以旧闻填充。",
+  "takeaways": [
+    {
+      "company": "小鹏汽车",
+      "title": "IRON人形机器人产线正式投产",
+      "summary": "小鹏宣布人形机器人产线投入运行，首台先进通用人形机器人完成产线制造并自主走下产线；核心工序自动化率超过80%，汽车级制造能力开始向机器人量产迁移。",
+      "source": {"label": "XPENG / PR Newswire", "url": "https://en.prnasia.com/releases/global/iron-the-world-s-first-advanced-general-purpose-humanoid-robot-walks-off-the-production-lines-as-xpeng-s-humanoid-robot-manufacturing-facility-is-officially-commissioned-546885.shtml", "publishedAt": "2026-09-08 10:26（北京时间）"}
+    },
+    {
+      "company": "Arm",
+      "title": "Arm把Total Design扩展到Physical AI",
+      "summary": "Arm宣布面向Physical AI扩展Total Design生态，联合AWS、Hugging Face、NXP、QNX、Qwen、Siemens、宇树等80余家公司，并提出Robotics Capability Framework以降低系统集成复杂度。",
+      "source": {"label": "Arm Newsroom", "url": "https://newsroom.arm.com/news/arm-total-design-and-robotics-capability-framework-for-physical-ai", "publishedAt": "2026-09-08（页面仅标注日期）"}
+    },
+    {
+      "company": "Dynamic Intelligence",
+      "title": "发布DI-0多模态机器人数据资源",
+      "summary": "DI-0提供人类示范与遥操作轨迹，包含同步视觉、语言、机器人状态和动作，用于VLA预训练、微调和评估；行业竞争继续从单一模型权重扩展到可复用数据基础设施。",
+      "source": {"label": "Dynamic Intelligence", "url": "https://dynamicintelligence.company/learn/DI-0-VLA-robot-large-scale-data", "publishedAt": "2026-09-08（页面仅标注日期）"}
+    },
+    {
+      "company": "法拉第未来",
+      "title": "8月EAI机器人销售及出货158台",
+      "summary": "公司披露8月机器人本体销售及出货158台，自2月启动交付以来累计552台；8月底中东首单交付6台。数据为公司口径，尚未经独立审计。",
+      "source": {"label": "IT之家", "url": "https://www.ithome.com/0/999/512.htm", "publishedAt": "2026-09-08 08:08（北京时间）"}
+    },
+    {
+      "company": "珞石机器人",
+      "title": "公布9月全球展会与物理AI展示计划",
+      "summary": "珞石将围绕工业制造、具身智能、人形机器人及核心零部件参加多场海内外展会，强调从本体、关节到力控和运控的全栈能力。",
+      "source": {"label": "珞石机器人官网", "url": "https://www.rokae.com/cn/news/show/2552/%E7%8F%9E%E7%9F%B3%E6%9C%BA%E5%99%A8%E4%BA%BA9%E6%9C%88%E5%B1%95%E8%AE%AF%EF%BD%9C%E5%A5%94%E8%B5%B4%E5%85%A8%E7%90%83%EF%BC%8C%E5%85%B1%E6%8E%A2%E7%89%A9%E7%90%86AI%E4%BA%A7%E4%B8%9A%E6%96%B0%E6%9C%AA%E6%9D%A5.html", "publishedAt": "2026-09-08（页面仅标注日期）"}
+    },
+    {
+      "company": "粼动科技",
+      "title": "完成Pre-A轮超千万元融资",
+      "summary": "公司聚焦水下仿生机器人，自研欠驱动方案以一驱多动降低核心驱动部件成本；公开报道披露其教育机器人量产工艺跑通后三个月出货超千台。",
+      "source": {"label": "DoitNews", "url": "https://doitnews.cn/t/embodied-ai/", "publishedAt": "2026-09-08（页面仅标注日期）"}
+    },
+    {
+      "company": "寰宇心生",
+      "title": "完成数千万元种子轮融资",
+      "summary": "公司获得元生资本投资，研发神经认知世界模型，尝试构建记忆、知识、推演和校准闭环，体现具身智能早期资本继续向世界模型与认知架构分流。",
+      "source": {"label": "DoitNews", "url": "https://doitnews.cn/t/embodied-ai/", "publishedAt": "2026-09-08（页面仅标注日期）"}
+    }
+  ],
+  "companyUpdates": [
+    {
+      "company": "小鹏汽车",
+      "headline": "汽车级制造体系向IRON量产迁移",
+      "summary": "产线核心工序自动化率超过80%，首台机器人自主走下产线；公开稿未披露当前产能、良率、订单或交付计划。",
+      "source": {"label": "XPENG / PR Newswire", "url": "https://en.prnasia.com/releases/global/iron-the-world-s-first-advanced-general-purpose-humanoid-robot-walks-off-the-production-lines-as-xpeng-s-humanoid-robot-manufacturing-facility-is-officially-commissioned-546885.shtml", "publishedAt": "2026-09-08 10:26（北京时间）"}
+    },
+    {
+      "company": "Arm",
+      "headline": "80余家公司加入Physical AI生态",
+      "summary": "Robotics Capability Framework试图形成机器人能力的通用描述语言，利于芯片、模型、操作系统与本体的模块化协作。",
+      "source": {"label": "Arm Newsroom", "url": "https://newsroom.arm.com/news/arm-total-design-and-robotics-capability-framework-for-physical-ai", "publishedAt": "2026-09-08（页面仅标注日期）"}
+    },
+    {
+      "company": "珞石机器人",
+      "headline": "面向海外展示物理AI全栈能力",
+      "summary": "展会计划覆盖欧洲、北美和中国，重点展示机器人本体、关节、力控与运控能力；本窗口未披露新增订单。",
+      "source": {"label": "珞石机器人官网", "url": "https://www.rokae.com/cn/news/show/2552/%E7%8F%9E%E7%9F%B3%E6%9C%BA%E5%99%A8%E4%BA%BA9%E6%9C%88%E5%B1%95%E8%AE%AF%EF%BD%9C%E5%A5%94%E8%B5%B4%E5%85%A8%E7%90%83%EF%BC%8C%E5%85%B1%E6%8E%A2%E7%89%A9%E7%90%86AI%E4%BA%A7%E4%B8%9A%E6%96%B0%E6%9C%AA%E6%9D%A5.html", "publishedAt": "2026-09-08（页面仅标注日期）"}
+    }
+  ],
+  "industryUpdates": [
+    {
+      "title": "量产能力成为人形机器人竞争的新分界线",
+      "summary": "小鹏把汽车工艺自动化和质量体系迁入机器人产线，行业评估重点将逐步从样机表现转向产能、良率、成本和持续交付。",
+      "source": {"label": "XPENG / PR Newswire", "url": "https://en.prnasia.com/releases/global/iron-the-world-s-first-advanced-general-purpose-humanoid-robot-walks-off-the-production-lines-as-xpeng-s-humanoid-robot-manufacturing-facility-is-officially-commissioned-546885.shtml", "publishedAt": "2026-09-08 10:26（北京时间）"}
+    },
+    {
+      "title": "Physical AI生态开始补能力描述标准",
+      "summary": "Arm的框架信号表明，跨芯片、模型、操作系统和本体的能力边界与接口定义正在成为规模化部署前置条件。",
+      "source": {"label": "Arm Newsroom", "url": "https://newsroom.arm.com/news/arm-total-design-and-robotics-capability-framework-for-physical-ai", "publishedAt": "2026-09-08（页面仅标注日期）"}
+    },
+    {
+      "title": "VLA数据产品走向独立基础设施",
+      "summary": "DI-0将示范、遥操作、视觉、语言、状态和动作打包为可复用数据资源，说明数据采集、清洗和跨本体映射本身正成为产品。",
+      "source": {"label": "Dynamic Intelligence", "url": "https://dynamicintelligence.company/learn/DI-0-VLA-robot-large-scale-data", "publishedAt": "2026-09-08（页面仅标注日期）"}
+    }
+  ],
+  "comparison": {"columns": [], "rows": [], "note": "本窗口没有可靠、同口径的新机完整参数，故不生成参数对比表。"},
+  "capitalMarket": [
+    {"company": "小鹏汽车", "ticker": "XPEV / 09868.HK", "signal": "IRON产线投产是本窗口最重要的机器人资本叙事信号；美股9月8日尚未开盘，行情沿用9月4日最近收盘。", "source": {"label": "XPENG / PR Newswire", "url": "https://en.prnasia.com/releases/global/iron-the-world-s-first-advanced-general-purpose-humanoid-robot-walks-off-the-production-lines-as-xpeng-s-humanoid-robot-manufacturing-facility-is-officially-commissioned-546885.shtml", "publishedAt": "2026-09-08 10:26（北京时间）"}},
+    {"company": "宇树科技", "ticker": "688836.SH", "signal": "9月8日收报523.68元，跌2.36%；上市未满一个完整月，不计算月涨幅，但保留上市以来真实日线。", "source": {"label": "Investing.com", "url": "https://cn.investing.com/equities/yushu-tech-co-historical-data", "publishedAt": "2026-09-08 15:00（北京时间）"}}
+  ],
+  "disclaimer": "公开资料摘要，仅供行业研究，不构成投资建议。融资、销量与出货数据来自公司或媒体公开口径，未经独立审计；资本行情采用最近可核验交易日收盘。"
+}

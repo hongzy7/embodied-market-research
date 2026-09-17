@@ -1,0 +1,89 @@
+{
+  "reportDate": "2026-09-04",
+  "title": "具身智能每日简报",
+  "windowStart": "2026-09-03T18:00:00+08:00",
+  "windowEnd": "2026-09-04T18:00:00+08:00",
+  "generatedAt": "2026-09-04T18:24:00+08:00",
+  "keywords": ["跨本体导航", "原生智能体", "国产算力", "融资", "商业验证"],
+  "scopeNote": "严格检索北京时间2026-09-03 18:00（含）至2026-09-04 18:00（不含）。本窗口仅筛得4条同时具备明确公开时间、可核验来源和业务价值的动态，因此不为凑数扩展到旧闻；对事件发生时间未精确披露的条目，明确按本窗口内公开报道时间收录。",
+  "takeaways": [
+    {
+      "company": "亮源新创 / 逐际动力",
+      "title": "LightNav-0以Real2Sim2Real路线实现跨本体零样本导航",
+      "summary": "新华网9月4日14:22报道，亮源新创开源LightNav-0：团队采集2000多个真实室内外场景、合成4000多小时后训练数据，经SFT与RL训练后，可在新机器人、新环境和新任务上免专项采数、免重新微调部署；公开案例已覆盖逐际动力Oli与TRON 2。",
+      "source": {"label": "新华网", "url": "https://www.news.cn/tech/20260904/6400d2880dd847c7b48a325db1f384b2/c.html", "publishedAt": "2026-09-04T14:22:13+08:00"}
+    },
+    {
+      "company": "银河通用",
+      "title": "Galbot ET1开启预订，24小时预订量突破200台",
+      "summary": "中国新闻网9月4日16:39报道，银河星仔Galbot ET1于9月3日开启预订，24小时整体预订量超过200台、其中京东超过100台；产品主打观察学习与文旅、导览、演艺等商用场景，但预订量仍不等同于交付和收入。",
+      "source": {"label": "中国新闻网", "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690406.shtml", "publishedAt": "2026-09-04T16:39:05+08:00"}
+    },
+    {
+      "company": "黑芝麻智能 / 遨博智能",
+      "title": "首批Aura Devkit交付，合作从联合研发走向商业供货",
+      "summary": "9月4日09:56公开报道显示，黑芝麻智能已向遨博智能交付首批Aura Devkit，双方合作覆盖联合研发、商业供货及消费电子装配用双臂协作机器人项目申报；报道未披露套件数量、合同额和量产节点。",
+      "source": {"label": "新浪财经", "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-04/doc-iniqrpqy0793859.shtml", "publishedAt": "2026-09-04T09:56:00+08:00"}
+    },
+    {
+      "company": "深朴智能",
+      "title": "完成数亿元Pre-A+轮融资，继续押注生活空间具身智能",
+      "summary": "9月4日11:15公开报道确认，深朴智能完成数亿元Pre-A+轮融资，投资方包括珂玺资本、上海科创旗下知识产权基金、金浦投资、亳州产投、上城资本、乾融资本及老股东线性资本；公司于9月3日宣布，尚未披露具体金额与商业部署指标。",
+      "source": {"label": "界面新闻公开转载", "url": "https://finance.eastmoney.com/a/202609043865203772.html", "publishedAt": "2026-09-04T11:15:00+08:00"}
+    }
+  ],
+  "companyUpdates": [
+    {
+      "company": "银河通用",
+      "headline": "原生智能体产品开始接受市场端预订验证",
+      "summary": "200台预订提供了早期需求信号，但仍需追踪定金比例、实际交付、复购与商用场景收入。",
+      "source": {"label": "中国新闻网", "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690406.shtml", "publishedAt": "2026-09-04T16:39:05+08:00"}
+    },
+    {
+      "company": "黑芝麻智能 / 遨博智能",
+      "headline": "端侧算力套件进入协作机器人开发流程",
+      "summary": "首批开发套件交付说明合作已越过概念签约，但数量、合同额及量产时间尚未披露。",
+      "source": {"label": "新浪财经", "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-04/doc-iniqrpqy0793859.shtml", "publishedAt": "2026-09-04T09:56:00+08:00"}
+    },
+    {
+      "company": "深朴智能",
+      "headline": "新融资强化生活空间具身智能竞赛",
+      "summary": "多家产业和地方资本参与，资金用途与量产里程碑仍需等待公司进一步披露。",
+      "source": {"label": "界面新闻公开转载", "url": "https://finance.eastmoney.com/a/202609043865203772.html", "publishedAt": "2026-09-04T11:15:00+08:00"}
+    }
+  ],
+  "industryUpdates": [
+    {
+      "title": "跨本体模型的价值开始从榜单走向真机部署",
+      "summary": "LightNav-0用真实场景定义分布、仿真扩充训练数据、再回到真实机器人验证；免专项采数和免重新微调的主张仍需以更多真实任务成功率验证。",
+      "source": {"label": "新华网", "url": "https://www.news.cn/tech/20260904/6400d2880dd847c7b48a325db1f384b2/c.html", "publishedAt": "2026-09-04T14:22:13+08:00"}
+    },
+    {
+      "title": "商业信号正从发布会转向预订、开发套件交付与融资",
+      "summary": "本窗口缺少新的规模交付或终端验收数据；预订、Devkit首批交付和融资均属于前置指标，不能直接等同于收入。",
+      "source": {"label": "中国新闻网", "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690406.shtml", "publishedAt": "2026-09-04T16:39:05+08:00"}
+    }
+  ],
+  "comparison": {"columns": [], "rows": [], "note": "本窗口没有可靠、同口径且可直接比较的新增本体参数，故不生成参数表。"},
+  "capitalMarket": [
+    {
+      "company": "深朴智能",
+      "ticker": "未上市",
+      "signal": "完成数亿元Pre-A+轮融资，但具体金额、资金用途和商业部署指标尚未披露；融资热度不等同于产品验证。",
+      "source": {"label": "界面新闻公开转载", "url": "https://finance.eastmoney.com/a/202609043865203772.html", "publishedAt": "2026-09-04T11:15:00+08:00"}
+    },
+    {
+      "company": "特斯拉",
+      "ticker": "TSLA",
+      "signal": "9月3日美股收盘报376.34美元、涨5.41%。这是公司整体股价波动，不能直接归因于Optimus业务。",
+      "source": {"label": "ChartExchange", "url": "https://chartexchange.com/symbol/nasdaq-tsla/historical/", "publishedAt": "2026-09-04T04:00:00+08:00"}
+    },
+    {
+      "company": "小鹏汽车",
+      "ticker": "XPEV",
+      "signal": "9月3日美股收盘报11.13美元、涨0.45%。这是公司整体股价波动，不能直接归因于IRON业务。",
+      "source": {"label": "ChartExchange", "url": "https://chartexchange.com/symbol/nyse-xpev/historical/", "publishedAt": "2026-09-04T04:00:00+08:00"}
+    }
+  ],
+  "disclaimer": "公开资料摘要，仅供行业研究，不构成投资建议。预订量、开发套件交付与融资金额来自公开披露，未经独立审计；市场价格为最近可核验时点。"
+}
